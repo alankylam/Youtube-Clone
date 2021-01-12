@@ -1,4 +1,4 @@
-#Youtube Clone
+# Youtube Clone
 Youtube Clone built with React.js and Firebase 
 
 ![Alt text](/Youtube.JPG?raw=true "HMU")
